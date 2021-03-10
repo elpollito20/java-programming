@@ -44,7 +44,7 @@ public class BooleanComparisonOperators {
         String name = "Nadir";
         boolean checkName = name == "Nadir";
         System.out.println("checkName = " + checkName);
-        
+
         checkName = name != "Kuzzat";
         System.out.println("checkName = " + checkName);
     }
