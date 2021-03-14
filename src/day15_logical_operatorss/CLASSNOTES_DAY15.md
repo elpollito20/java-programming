@@ -20,7 +20,7 @@ OR  -> ||, |
 NOT -> !
 ------------
 
-add new package day15_logicalops_switch_ternary
+add new package day15_logical_operatorss
 add new class AndOperatorPractice
 main method
 

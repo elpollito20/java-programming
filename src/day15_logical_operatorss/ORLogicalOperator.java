@@ -1,4 +1,4 @@
-package day15_logicalops_switch_ternary;
+package day15_logical_operatorss;
 
 public class ORLogicalOperator {
     public static void main(String[] args) {

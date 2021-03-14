@@ -1,4 +1,4 @@
-package day15_logicalops_switch_ternary;
+package day15_logical_operatorss;
 
 /**
  * 1 - needs to be within budget
