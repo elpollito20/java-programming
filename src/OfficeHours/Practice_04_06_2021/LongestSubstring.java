@@ -25,7 +25,8 @@ public class LongestSubstring {
                 }
 
                 /* The reason I did i == str.length()-2 in the statement is so the characters are only checked
-                  in the 2nd to last index. In other iterations the str.charAt(i) == str.charAt(i + 1))                       /  part won't be checked
+                  in the 2nd to last index. In other iterations the str.charAt(i) == str.charAt(i + 1))
+                  part won't be checked
                 */
 
                 if(temp.length() > longestSubstring.length()) {
