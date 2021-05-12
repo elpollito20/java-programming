@@ -13,7 +13,5 @@ public class AnimalObjects {
         cheetahObj.type = "cheetah"; //change value/reassign to "cheetah"
         System.out.println(cheetahObj.type);
         cheetahObj.eat("kebab");
-
-
     }
 }
