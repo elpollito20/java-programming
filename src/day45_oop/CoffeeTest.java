@@ -29,5 +29,8 @@ public class CoffeeTest {
         //point to same object as coffee2
         coffee3 = coffee2;
         System.out.println("coffee3 type = " + coffee3.getType());
+
+        Coffee coffee4 = null; //reference variable does not refer/point to any object in HEAP
+        coffee4.setType("turkish"); //NullPointerException
     }
 }
