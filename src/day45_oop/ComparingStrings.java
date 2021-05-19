@@ -15,6 +15,14 @@ public class ComparingStrings {
         System.out.println(word1.equals(word3)); // TRUE - comparing values
         System.out.println(word3.equals(word4)); // TRUE - comparing values
 
+        Character c = 'c';
+        Character b = 'c';
 
+        System.out.println(c == b);
+
+        Integer n1 = new Integer(365);
+        Integer n2 = new Integer(365);
+
+        System.out.println("n1 == n2 = " + (n1==n2) );
     }
 }
