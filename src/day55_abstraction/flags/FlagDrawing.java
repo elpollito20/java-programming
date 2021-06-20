@@ -10,5 +10,7 @@ public class FlagDrawing {
 
         FrenchFlag france = new FrenchFlag();
         france.draw();
+
+
     }
 }
